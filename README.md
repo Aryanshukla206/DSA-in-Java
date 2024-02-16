@@ -1,7 +1,4 @@
 # DSA-in-Java
-<br>
-![image](https://github.com/Aryanshukla206/DSA-in-Java/assets/113294396/21273f13-1713-4aea-bdd5-55472195a532)
-<br>
 
 Java is one of the world's most important and widely used computer
 languages, and it has held this distinction for many years. Unlike some
